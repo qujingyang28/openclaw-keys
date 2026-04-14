@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "version": "1.0",
+    "lastUpdated": "2026-04-14T00:00:00Z",
+    "description": "RobotQu OpenClaw 有效授权 Key 列表"
+  },
+  "keys": [
+    {
+      "key": "ROBOTQU-DEMO-00001-ABCDE",
+      "type": "trial",
+      "createdAt": "2026-04-14",
+      "expiresAt": "2026-05-14",
+      "status": "active",
+      "note": "演示 Key（30 天试用）"
+    },
+    {
+      "key": "ROBOTQU-FULL-00001-XYZAB",
+      "type": "full",
+      "createdAt": "2026-04-14",
+      "expiresAt": "2027-04-14",
+      "status": "active",
+      "note": "正式版 Key（1 年）"
+    }
+  ]
+}
